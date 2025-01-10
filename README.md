@@ -7,7 +7,8 @@ Using these surrogate models, **surface integral quantities** such as **Lift** a
 
 
 
----
+---![surf_int](https://github.com/user-attachments/assets/61b098d8-164b-4469-8bf5-ab0393079024)
+
 
 
 ## **1. Computing Edge Integral for a Scalar-Valued Function**
