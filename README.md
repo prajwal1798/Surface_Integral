@@ -5,7 +5,10 @@ The trained surrogate models can predict aerodynamic surface quantities for a gi
 
 Using these surrogate models, **surface integral quantities** such as **Lift** and **Drag** are computed based on the values of **pressure** $p$, **shear stress** $\tau_1$ and $\tau_2$ at the corresponding nodes on the aerofoil wall.
 
+![Uploading surf_int.jpg…]()
+
 ---
+
 
 ## **1. Computing Edge Integral for a Scalar-Valued Function**
 
